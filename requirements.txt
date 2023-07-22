@@ -1,2 +1,5 @@
 openai 
 python-pptx
+python-dotenv
+streamlit
+googletrans==3.1.0a0
